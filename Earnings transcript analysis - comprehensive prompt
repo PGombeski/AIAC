@@ -1,0 +1,216 @@
+Using the below analytical framework, please evaluate the attached earnings transcript ###
+
+# 📑 LLM Earnings Call Analysis Template (12-Point Framework)
+
+⚠️ **Important Instruction**: Only fill out sections based on information explicitly stated or strongly implied in the transcript. Do not speculate or fill gaps. Mark **N/A** where no relevant content exists.
+
+---
+
+## Overview
+
+| Field | Value |
+
+|---------------------|-------------------------------|
+
+| Company | |
+
+| Quarter | |
+
+| Earnings Call Date | |
+
+| Transcript Source | |
+
+| Analyst / Reviewer | |
+
+| LLM Version Used | |
+
+---
+
+## 🧠 12-Point Transcript Analysis
+
+### Level 0: General Summary
+
+> Summarize the overall tone, topline performance, and standout elements of the quarter.
+
+---
+
+### Level 1: Functional Summary
+
+> Summarize the transcript from the perspective of each domain leader:
+
+- Marketing
+
+- Product
+
+- Finance
+
+- Technology
+
+- Ops / Supply Chain
+
+---
+
+### Level 2: Strategic Theme Clustering
+
+> Identify and briefly summarize the key strategic themes discussed (e.g., growth, innovation, pricing, supply chain, regulatory risk).
+
+---
+
+### Level 3: Sentiment & Tone
+
+> Assess tone and emotional language for key execs (e.g., optimistic, cautious, vague, defensive).
+
+| Executive | Tone Description (e.g., optimistic, cautious, defensive, vague) |
+
+|-------------|------------------------------------------------------------------|
+
+| CEO | |
+
+| CFO | |
+
+| Others | |
+
+---
+
+### Level 4: Buzzword Profiling
+
+> Identify buzzwords and business clichés. Infer which decade or trend they align with.
+
+| Buzzword | Frequency/Emphasis | Era/Implication |
+
+|------------------------|-----------------------------|-----------------------------|
+
+| | | |
+
+| | | |
+
+| | | |
+
+---
+
+### Level 5: Key Facts & Figures Table
+
+| Metric | Value | Quote Context | Speaker |
+
+|---------------------------------------------|-----------|-------------------------------------------|--------------|
+
+| | | | |
+
+| | | | |
+
+---
+
+### Level 6: Quote-Ready Themes
+
+> Identify up to 10 key themes with suggested keywords to locate supporting quotes. Do not pull full sentences or phrases.
+
+| Theme | Summary | Suggested Keywords to Search |
+
+|----------------------------|----------------------------------------------|------------------------------------|
+
+| | | |
+
+| | | |
+
+---
+
+### Level 7: External Company Mentions
+
+> List any external companies mentioned in the call; identify the relationship to the main company (e.g. vendor, customer, service provider, etc).
+
+| Company | Role / Relationship | Context / Reference Point |
+
+|------------------|------------------------------|---------------------------------------|
+
+| | | |
+
+| | | |
+
+---
+
+### Level 8: Analyst & Investor Simulation
+
+> Suggest smart follow-up questions a buy-side analyst, reporter, or investor might ask.
+
+- Question 1:
+
+- Question 2:
+
+- Question 3:
+
+---
+
+### Level 9: Competitive Benchmarking
+
+> How does this company’s positioning, tone, or strategy compare to key competitors?
+
+---
+
+### Level 10: GenAI Maturity and Approach Evaluation
+
+**Maturity Level (select one):**
+
+- [ ] Level 1 — Awareness only
+
+- [ ] Level 2 — Experimentation (PoCs, pilots)
+
+- [ ] Level 3 — Prioritization (strategic focus)
+
+- [ ] Level 4 — Scaling across workflows
+
+- [ ] Level 5 — Optimization (with ROI impact)
+
+**Approach (identify all relevant efforts):**
+
+| Approach | Evidence in Transcript | Notes |
+
+|----------|---------------------------------------------|------------------------------|
+
+| Build | | |
+
+| Rent | | |
+
+| Buy | | |
+
+---
+
+### Level 11: Transparency Scorecard
+
+> Rate how open and clear each executive is during the call.
+1 = Least transparent, 5 = Most transparent
+
+| Executive | Score (1–5) | Notes |
+
+|-------------|--------------|--------------------------------------------|
+
+| CEO | | |
+
+| CFO | | |
+
+| Others | | |
+
+---
+
+### Level 12: Narrative Archetype
+
+> Identify the overarching story the company is telling this quarter.
+
+🧩 **Common Types**:
+
+- The Fortress
+
+- The Platform Builder
+
+- The Turnaround
+
+- The Disruptor
+
+- The Underdog
+
+- The Optimizer
+
+**Chosen Archetype(s):**
+
+**Supporting Evidence:**
+
+---
